@@ -16,6 +16,8 @@ To create a Web-Layout using GridBOX.
 5.Edit App.js and enter the HTML code in the return and render.
 
 # Output:
+![image](https://github.com/SOMEASVAR/Gridbox/assets/93434149/7ed74f1d-8916-4839-82ee-f0c5b005b04e)
+
 
 
 # Result:
